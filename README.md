@@ -44,6 +44,6 @@ Total Sacks Counted: 6
 Total Distinct Laborers: 53
 ```
 
----
-*Created as part of an Internship Technical Assignment.*
-#
+
+
+
