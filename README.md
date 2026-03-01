@@ -37,12 +37,13 @@ The system generates a processed video with overlays and provides a summary repo
 *   Total Sacks Counted
 *   Total Distinct Laborers
 
-### Example Output:
+### Example Output below:
 ```text
 Final Report:
 Total Sacks Counted: 6
 Total Distinct Laborers: 53
 ```
+
 
 
 
